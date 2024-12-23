@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, Im ordinary html programmer
 
+- 🔭 I’m currently working seongji high school ...
+- 🌱 I’m currently learning html reversing
+  
 <!--
 **F0rsythia/F0rsythia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
