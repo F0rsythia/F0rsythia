@@ -1,6 +1,5 @@
 ## Hi there 👋, Im ordinary html programmer
 
-- 🔭 I’m currently working seongji high school ...
 - 🌱 I’m currently learning html reversing
   
 <!--
